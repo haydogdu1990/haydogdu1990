@@ -17,7 +17,6 @@ I’m currently learning Tailwind CSS, Redux.js, Jest.js and React Native.
 
 * 🌍  I'm based in Ankara
 * ✉️  You can contact me at [haydogdu1990@gmail.com](mailto:haydogdu1990@gmail.com)
-* 🧠  I'm learning CSS, JavaScript, React.JS and Node.js
 * 🤝  I'm open to collaborating on professional work and open source projects
 * 🖥️  See my portfolio at exhibited in [Codepen](http://codepen.io/haydogdu1990)
 * ⚡  See what I did on [Hackerrank](https://www.hackerrank.com/haydogdu1990)
