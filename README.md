@@ -13,7 +13,7 @@ Front-End Developer
 -------------------
 
 
-I’m currently learning CSS,Javascript and ReactJS.
+I’m currently learning Tailwind CSS, Redux.js, Jest.js and React Native.
 
 * 🌍  I'm based in Ankara
 * ✉️  You can contact me at [haydogdu1990@gmail.com](mailto:haydogdu1990@gmail.com)
