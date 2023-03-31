@@ -1,5 +1,8 @@
 ### Hi 👋 My name is Hasan Aydoğdu
 
+🚀Technical Assistant (Voluntarily) @Kodluyoruz
+
+
 [Resume](https://haydogdu1990.github.io/resume-json-css/)
 
 ==============================
