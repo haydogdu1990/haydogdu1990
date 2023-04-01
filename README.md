@@ -28,6 +28,7 @@ I’m currently learning Tailwind CSS, Redux.js, Jest.js and React Native.
 
 ### Skills
 
+
 <p align="left">
 
   
