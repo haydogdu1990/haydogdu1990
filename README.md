@@ -91,7 +91,6 @@ What did i use before...
 
 
 <p align="left">
-[gh profile readme generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-[profile readme generator](https://profile-readme-generator.com/)
-
+  <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" align="left">gh profile readme generator</a>
+  <a href="https://profile-readme-generator.com/" align="left">profile readme generator</a>
 </p>
