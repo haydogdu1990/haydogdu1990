@@ -17,6 +17,7 @@ Front-End Developer
 -------------------
 
 
+
 I’m currently learning Tailwind CSS, Redux.js, Jest.js and React Native.
 
 * 🌍  I'm based in Ankara
